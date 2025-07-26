@@ -1,0 +1,7 @@
+#key_logger:
+python -m pip install pynput
+
+
+#ScreenShot_share:
+
+pip install pynput pyautogui
